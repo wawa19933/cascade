@@ -25,12 +25,15 @@
 #topmenu { display: none !important; }
 
 
+/*
 #tablist-wrapper,
 #pinnedtablist { background: var(--uc-base-colour); }
+*/
 
+/*
 .tab:hover,
 .tab.active { background: var(--uc-highlight-colour); }
-
+*/
 
 
 #tablist-wrapper .tab-title-wrapper {
